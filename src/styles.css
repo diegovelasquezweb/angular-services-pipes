@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+.grid {
+  display: flex;
+  gap: 20px;
+}
+
+img {
+  aspect-ratio: 1/1;
+  object-fit: cover;
+}
